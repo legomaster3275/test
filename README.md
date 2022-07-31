@@ -1,5 +1,4 @@
 # test
+require javascript
 
-``` javascript
 let num = Math.random()
-```
